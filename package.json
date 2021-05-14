@@ -1,0 +1,18 @@
+{
+  "name": "promise-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha *test.js",
+    "watch-test": "mocha -w *test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2",
+    "nodemon": "^2.0.7",
+    "sinon": "^9.2.4"
+  }
+}
